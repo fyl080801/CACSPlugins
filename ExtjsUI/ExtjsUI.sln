@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{0B15A740-7426-4E79-B768-80B98589849F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CACS.Plugin.ExtjsUI.Services", "src\CACS.Plugin.ExtjsUI.Services\CACS.Plugin.ExtjsUI.Services.csproj", "{E58AE375-6738-4346-83C4-AF61D7E7E0FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CACS.Plugin.ExtjsUI", "src\CACS.Plugin.ExtjsUI\CACS.Plugin.ExtjsUI.csproj", "{5312D1BE-A24B-4968-9AAA-4DD93E1A0E8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CACS.Plugin.ExtjsUI.WebSite", "src\CACS.Plugin.ExtjsUI.WebSite\CACS.Plugin.ExtjsUI.WebSite.csproj", "{1532401F-865B-4A21-A1CC-461E5CEDCE68}"
+EndProject
+Project("{FF286327-C783-4F7A-AB73-9BCBAD0D4460}") = "CACS.Plugin.ExtjsUI.Package", "src\CACS.Plugin.ExtjsUI.Package\CACS.Plugin.ExtjsUI.Package.nuproj", "{52834E75-3C4B-41D5-8749-D05597A5A9DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E58AE375-6738-4346-83C4-AF61D7E7E0FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E58AE375-6738-4346-83C4-AF61D7E7E0FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E58AE375-6738-4346-83C4-AF61D7E7E0FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E58AE375-6738-4346-83C4-AF61D7E7E0FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5312D1BE-A24B-4968-9AAA-4DD93E1A0E8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5312D1BE-A24B-4968-9AAA-4DD93E1A0E8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5312D1BE-A24B-4968-9AAA-4DD93E1A0E8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5312D1BE-A24B-4968-9AAA-4DD93E1A0E8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1532401F-865B-4A21-A1CC-461E5CEDCE68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1532401F-865B-4A21-A1CC-461E5CEDCE68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1532401F-865B-4A21-A1CC-461E5CEDCE68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1532401F-865B-4A21-A1CC-461E5CEDCE68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52834E75-3C4B-41D5-8749-D05597A5A9DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52834E75-3C4B-41D5-8749-D05597A5A9DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52834E75-3C4B-41D5-8749-D05597A5A9DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52834E75-3C4B-41D5-8749-D05597A5A9DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E58AE375-6738-4346-83C4-AF61D7E7E0FD} = {0B15A740-7426-4E79-B768-80B98589849F}
+		{5312D1BE-A24B-4968-9AAA-4DD93E1A0E8C} = {0B15A740-7426-4E79-B768-80B98589849F}
+		{1532401F-865B-4A21-A1CC-461E5CEDCE68} = {0B15A740-7426-4E79-B768-80B98589849F}
+		{52834E75-3C4B-41D5-8749-D05597A5A9DA} = {0B15A740-7426-4E79-B768-80B98589849F}
+	EndGlobalSection
+EndGlobal

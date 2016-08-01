@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<description>
+  <index>1</index>
+  <pluginFileName>CACS.Plugin.Enterprise.dll</pluginFileName>
+  <pluginId>企业信息管理</pluginId>
+  <pluginName></pluginName>
+  <supportedVersion>2.0</supportedVersion>
+  <version>1.0</version>
+  <remark>人员、部门、职务</remark>
+  <tags>基础功能,企业应用</tags>
+</description>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<description>
+  <index>0</index>
+  <pluginFileName>CACS.Plugin.ExtjsUI.dll</pluginFileName>
+  <pluginId>ExtjsUI</pluginId>
+  <pluginName>Extjs风格界面</pluginName>
+  <supportedVersion>1.0</supportedVersion>
+  <version>1.0</version>
+  <remark></remark>
+  <tags>基础应用,UI</tags>
+</description>

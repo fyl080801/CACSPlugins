@@ -250,3 +250,7 @@ paket-files/
 # JetBrains Rider
 .idea/
 *.sln.iml
+/Enterprise/output/Plugins/Enterprise
+/Enterprise/src/CACS.Plugin.Enterprise.WebSite/App_Data/InstalledPlugins.xml
+/ExtjsUI/output/Plugins/ExtjsUI
+/ExtjsUI/src/CACS.Plugin.ExtjsUI.WebSite/App_Data/InstalledPlugins.xml
